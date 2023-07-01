@@ -1,14 +1,12 @@
 # Overview
 
-{Important! Do not say in this section that this is college assignment. Talk about what you are trying to accomplish as a software engineer to further your learning.}
+As a software engineer, my goal is to continuously expand my knowledge and skills in various programming languages and paradigms. Kotlin, being a modern programming language, offers a lot of features that make it a great choice for a variety of applications, from Android development to web servers. To further my understanding of Kotlin, I developed a simple game application.
 
-{Provide a description of the software that you wrote to demonstrate the Kotlin language.}
+The software I wrote is a game application that includes two text-based mini-games: "Guess the Number" and "Dual Dice Duel". The application is built using Kotlin and Swing, a Java library for creating graphical user interfaces. The application features a user-friendly interface where players can choose a game, place bets, and play the games. The application also keeps track of the player's coin balance and displays game rules in a separate window.
 
-{Describe your purpose for writing this software.}
+There were a few reasons that I chose to make this Kotlin project. Firstly, it allowed me to explore and understand various aspects of Kotlin, which is an entirely new language for me. Secondly, it helped me to get my foot in the door for working with mobile app development. Lastly, the project served as a practical exercise in software design and problem-solving, as I had to devise the game logic and implement it in code. Through this project, I was able to gain hands-on experience with Kotlin and further develop my programming skills.
 
-{Provide a link to your YouTube demonstration. It should be a 4-5 minute demo of the software running and a walkthrough of the code. Focus should be on sharing what you learned about the language syntax.}
-
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://www.loom.com/share/a6b75b38ff6549a092f0aea365cf4b68?sid=ccde2b16-c140-489e-aa5a-4252cb43441a)
 
 # Development Environment
 
