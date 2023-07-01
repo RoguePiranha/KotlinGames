@@ -8,7 +8,7 @@ import java.awt.Font
 // TODO: Move reset and quit to separate line in south box? Maybe stacked?
 // TODO: Move coins to far right and add coin image
 // TODO: Add separate window to show previous guesses  --DONE
-// TODO: Finish displayRules function  !IMPORTANT
+// TODO: Finish displayRules function  !IMPORTANT  --DONE
 
 class GameFrame : JFrame() {
     private var coins = 100
@@ -18,7 +18,7 @@ class GameFrame : JFrame() {
     private var currentBet: Int? = null
     private val coinLabel: JLabel = JLabel("Coins: $coins")
     private val gameButtonGuess: JButton = JButton("Start Guess The Number Game")
-    private val gameButtonDice: JButton = JButton("Start  Dice Duel Game")
+    private val gameButtonDice: JButton = JButton("Start Dice Duel Game")
     private val submitBetButton: JButton = JButton("Submit Bet")
     private val submitGuessButton: JButton = JButton("Submit Guess")
     private val resetButton: JButton = JButton("Reset")

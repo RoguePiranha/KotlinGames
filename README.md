@@ -10,21 +10,21 @@ There were a few reasons that I chose to make this Kotlin project. Firstly, it a
 
 # Development Environment
 
-{Describe the tools that you used to develop the software}
+The only tool I really used for this project was IntelliJ IDEA Community Edition as well as installing the later version of JDK.
 
-{Describe the programming language that you used and any libraries.}
+The language I used for this project is Kotlin. It's a language developed by JetBrains. It's designed to run on the Java Virtual Machine (JVM), but it can also be compiled to JavaScript or native code. It's got a lot of cool features that make it more concise and safer than Java.
+
+For this project, I didn't need to use any external libraries. Everything I needed was already included in the standard Kotlin library and the Java standard library. For the graphical user interface, I used Swing, which is a part of Java's standard library. It's a bit old school, but it gets the job done for simple applications like this one.
 
 # Useful Websites
 
-{Make a list of websites that you found helpful in this project}
-
-- [Web Site Name](https://kotlinlang.org/)
-- [Web Site Name](http://url.link.goes.here)
+- [Kotlin](https://kotlinlang.org/)
+- [Programiz](https://www.programiz.com/kotlin-programming)
+- [ZetCode](https://zetcode.com/kotlin/swing/)
+- [Kotlin Quick Reference](https://kotlin-quick-reference.com/)
 
 # Future Work
 
-{Make a list of things that you need to fix, improve, and add in the future.}
-
-- Item 1
-- Item 2
-- Item 3
+- Add more games. There are a lot of simple games that could be included here, that also means I would need to update the UI to be able to incorporate them all without having the screen be cluttered.
+- Add a leaderboard feature to keep track of high scores to give a little more weight to the games.
+- Improve the UI. I want to make this game hub a lot cleaner and more modern looking. It looks straight out of Windows XP for the moment.
